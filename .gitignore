@@ -1125,3 +1125,13 @@ node_modules/safe-buffer/index.js
 node_modules/safe-buffer/LICENSE
 node_modules/safe-buffer/package.json
 node_modules/safe-buffer/README.md
+phonebookbackend/node_modules/cors/CONTRIBUTING.md
+phonebookbackend/node_modules/cors/HISTORY.md
+phonebookbackend/node_modules/cors/LICENSE
+phonebookbackend/node_modules/cors/package.json
+phonebookbackend/node_modules/cors/README.md
+phonebookbackend/node_modules/cors/lib/index.js
+phonebookbackend/node_modules/object-assign/index.js
+phonebookbackend/node_modules/object-assign/license
+phonebookbackend/node_modules/object-assign/package.json
+phonebookbackend/node_modules/object-assign/readme.md
